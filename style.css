@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(10, 58, 75, 0.767);
+    color: white;
+}
+
+.contaliner {
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(6, 32, 42, 0.767);
+    box-shadow: 0 2px 4px rgb(25, 24, 24);
+}
+
+h1 {
+    color: white;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 70%;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgba(59, 172, 213, 0.767);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#responseData {
+    margin-top: 20px;
+    font-size: 18px;
+}
